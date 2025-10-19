@@ -14,6 +14,8 @@ We click the (disconnect user) button again in the menu of the user we selected 
 
 Have Fun :)
 
+-------------------------------------------------------------------------------------
+
 Tr /
 Ne işe yarar?
 
